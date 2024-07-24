@@ -1,0 +1,10 @@
+# gitignore for RTXI module
+
+# ignore cmake
+/CMakeCache.txt
+/CMakeFiles/
+/cmake_install.cmake
+/compile_commands.json
+/Makefile
+*.so
+*_autogen/
